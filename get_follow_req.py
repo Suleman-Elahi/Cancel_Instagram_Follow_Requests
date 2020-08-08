@@ -18,10 +18,7 @@ browser.get("https://www.instagram.com/")
 
 time.sleep(3) #Waiting 3 seconds after we open the page.
 
-#IG Login
-login = browser.find_element_by_xpath ("//*[@id='react-root']/section/main/article/div[2]/div[2]/p/a")
-login.click()
-time.sleep (2)
+#IG Login -->
 
 username=browser.find_element_by_name ("username")
 username.send_keys (loginInfo.username)
