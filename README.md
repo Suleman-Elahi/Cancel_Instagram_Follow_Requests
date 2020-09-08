@@ -1,3 +1,6 @@
+<a href="https://trackgit.com">
+<img src="https://sfy.cx/u/oDt" alt="trackgit-views" />
+</a>
 # Cancel Instagram Follow Requests
 A simple script that automatically gets all the people you have sent follow requests and cancels them all with ease.
 
