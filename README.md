@@ -1,5 +1,5 @@
 <a href="https://trackgit.com">
-<img src="https://sfy.cx/u/oDt" alt="trackgit-views" />
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ketsbp2oe3jyotige4dk" alt="trackgit-views" />
 </a>
 
 # Cancel Instagram Follow Requests
