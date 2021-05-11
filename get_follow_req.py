@@ -42,10 +42,13 @@ while True:
 
 cfreq_source = browser.find_elements_by_xpath("//div[@class='-utLf']") 
 
+count=0
+
 for x in cfreq_source:
     f.write(x.text+"\n")
+    count+=1
 f.close()
 
-print("Got the users you have sent follow request in \"follow_req.txt\" file, now exiting browser...")
+print("Got "+str(count)+" users you have sent follow request in \"follow_req.txt\" file, now exiting browser...")
 browser.quit()
 os.system('python cancel_req.py')
