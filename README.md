@@ -12,7 +12,7 @@ The endpoint to get current follow requests isn't availale in the official API o
 #### Steps to use it on Windows and Linux:
 
 **Step 1**: Download Python 3.x from here: https://www.python.org/downloads/ and download Chrome driver from here: https://chromedriver.chromium.org/downloads<br>
-**Step 2**: Put the `chromedriver.exe` file in the repsitory root and then double click on the `requirements.bat` file to install the dependencies. On Linux, you have to run the commands listed in the BAT file manually(may require `sudo`).<br>
+**Step 2**: Put the `chromedriver.exe` file in the repository root and then double click on the `requirements.bat` file to install the dependencies. On Linux, you have to run the commands listed in the BAT file manually(may require `sudo`).<br>
 **Step 3**: Edit the "loginInfo.py" file and specify your username and password inside doule quotes.<br>
 **Step 4**: Finally start the script by openign command prompt in the root of the repo and type `python get_follow_req.py`. Next, sit back and relax and watch it in action.<br>
 
