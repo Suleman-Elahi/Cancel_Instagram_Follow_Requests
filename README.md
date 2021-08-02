@@ -1,7 +1,6 @@
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ketsbp2oe3jyotige4dk" alt="trackgit-views" />
 </a>
-
 A better tool I created to do the same thing: https://github.com/Suleman-Elahi/FollowRequestsRemover
 
 # Cancel Instagram Follow Requests
