@@ -27,7 +27,7 @@ The endpoint to get current follow requests isn't availale in the official API o
 <img src="https://github.com/Suleman-Elahi/Cancel_InstagramFollowRequests/blob/master/cancel%20req%20in%20action.png">
 </p>
 
-~Ps I am not an expert in scraping and Python so the code here may be laughable but it works. Any suggestions are welcome tho.
+~Ps Not an expert in scraping :( so the code here may be laughable but it works. Any suggestions are welcome tho.
 
 
 **Note**: A better tool I created to do the same thing: https://github.com/Suleman-Elahi/FollowRequestsRemover
