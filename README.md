@@ -1,7 +1,6 @@
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ketsbp2oe3jyotige4dk" alt="trackgit-views" />
 </a>
-A better tool I created to do the same thing: https://github.com/Suleman-Elahi/FollowRequestsRemover
 
 # Cancel Instagram Follow Requests
 A simple script that automatically gets all the people you have sent follow requests and cancels them all with ease.
@@ -30,3 +29,5 @@ The endpoint to get current follow requests isn't availale in the official API o
 
 ~Ps I am not an expert in scraping and Python so the code here may be laughable but it works. Any suggestions are welcome tho.
 
+
+**Note**: A better tool I created to do the same thing: https://github.com/Suleman-Elahi/FollowRequestsRemover
