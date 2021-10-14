@@ -15,3 +15,4 @@ for x in f:
       api.friendships_destroy(uid)
       i+=1
       print ("Follow request "+ str(i)+" cancelled for: "+x)
+      time.sleep(5)
